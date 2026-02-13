@@ -24,7 +24,7 @@
 class CyberSecurityResearcher:
     def __init__(self):
         self.name = "Prajin Venkat"
-        self.date of bith + 2010 10 06
+        self.date_of_bith = 2010 10 06
         self.role = "Student | Aspiring Developer & Ethical Hacker and Introvert"
         self.location = "Trichy"
         self.interests = ["Programming",
